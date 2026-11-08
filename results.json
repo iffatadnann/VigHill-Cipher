@@ -1,0 +1,265 @@
+{
+ "roundtrip_ok_of_2000": 2000,
+ "kpa": [
+  {
+   "L": 10,
+   "known": 12,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.014454399235546589
+  },
+  {
+   "L": 10,
+   "known": 16,
+   "hill_recovered": 0.598,
+   "full_key": 0.598,
+   "ms": 0.027434199582785368
+  },
+  {
+   "L": 10,
+   "known": 20,
+   "hill_recovered": 0.908,
+   "full_key": 0.908,
+   "ms": 0.03298660134896636
+  },
+  {
+   "L": 10,
+   "known": 24,
+   "hill_recovered": 0.974,
+   "full_key": 0.974,
+   "ms": 0.05179900326766074
+  },
+  {
+   "L": 10,
+   "known": 28,
+   "hill_recovered": 0.992,
+   "full_key": 0.992,
+   "ms": 0.041818601079285145
+  },
+  {
+   "L": 10,
+   "known": 32,
+   "hill_recovered": 1.0,
+   "full_key": 1.0,
+   "ms": 0.04735779738985002
+  },
+  {
+   "L": 10,
+   "known": 40,
+   "hill_recovered": 1.0,
+   "full_key": 1.0,
+   "ms": 0.056974998442456126
+  },
+  {
+   "L": 10,
+   "known": 60,
+   "hill_recovered": 1.0,
+   "full_key": 1.0,
+   "ms": 0.09270859695971012
+  },
+  {
+   "L": 12,
+   "known": 12,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.004964601481333375
+  },
+  {
+   "L": 12,
+   "known": 16,
+   "hill_recovered": 0.338,
+   "full_key": 0.338,
+   "ms": 0.013669400243088603
+  },
+  {
+   "L": 12,
+   "known": 20,
+   "hill_recovered": 0.828,
+   "full_key": 0.828,
+   "ms": 0.02730720047838986
+  },
+  {
+   "L": 12,
+   "known": 24,
+   "hill_recovered": 0.968,
+   "full_key": 0.968,
+   "ms": 0.03420019755139947
+  },
+  {
+   "L": 12,
+   "known": 28,
+   "hill_recovered": 0.986,
+   "full_key": 0.986,
+   "ms": 0.03342299978248775
+  },
+  {
+   "L": 12,
+   "known": 32,
+   "hill_recovered": 1.0,
+   "full_key": 1.0,
+   "ms": 0.03634360060095787
+  },
+  {
+   "L": 12,
+   "known": 40,
+   "hill_recovered": 1.0,
+   "full_key": 1.0,
+   "ms": 0.042673003394156694
+  },
+  {
+   "L": 12,
+   "known": 60,
+   "hill_recovered": 1.0,
+   "full_key": 1.0,
+   "ms": 0.060131595470011234
+  },
+  {
+   "L": 15,
+   "known": 12,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.004345799563452601
+  },
+  {
+   "L": 15,
+   "known": 16,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.005472002783790231
+  },
+  {
+   "L": 15,
+   "known": 20,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.005963401636108756
+  },
+  {
+   "L": 15,
+   "known": 24,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.006336401216685772
+  },
+  {
+   "L": 15,
+   "known": 28,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.007643596036359668
+  },
+  {
+   "L": 15,
+   "known": 32,
+   "hill_recovered": 0.0,
+   "full_key": 0.0,
+   "ms": 0.00905959727242589
+  },
+  {
+   "L": 15,
+   "known": 40,
+   "hill_recovered": 0.868,
+   "full_key": 0.868,
+   "ms": 0.031206798972561955
+  },
+  {
+   "L": 15,
+   "known": 60,
+   "hill_recovered": 1.0,
+   "full_key": 1.0,
+   "ms": 0.05238159908913076
+  }
+ ],
+ "freq": [
+  {
+   "n": 50,
+   "shift_key": 1.0,
+   "vig_period_found": 0.115,
+   "vig_key_known_period": 0.0,
+   "vighill_letters_correct": 0.07489999999999991,
+   "vighill_exact": 0.0,
+   "vighill_IC": 0.03908163265306121
+  },
+  {
+   "n": 100,
+   "shift_key": 1.0,
+   "vig_period_found": 0.27,
+   "vig_key_known_period": 0.0,
+   "vighill_letters_correct": 0.06495000000000002,
+   "vighill_exact": 0.0,
+   "vighill_IC": 0.03923434343434343
+  },
+  {
+   "n": 200,
+   "shift_key": 1.0,
+   "vig_period_found": 0.56,
+   "vig_key_known_period": 0.315,
+   "vighill_letters_correct": 0.05204999999999999,
+   "vighill_exact": 0.0,
+   "vighill_IC": 0.03906155778894472
+  },
+  {
+   "n": 400,
+   "shift_key": 1.0,
+   "vig_period_found": 0.685,
+   "vig_key_known_period": 0.65,
+   "vighill_letters_correct": 0.05185000000000002,
+   "vighill_exact": 0.0,
+   "vighill_IC": 0.03898208020050122
+  },
+  {
+   "n": 800,
+   "shift_key": 1.0,
+   "vig_period_found": 0.8,
+   "vig_key_known_period": 1.0,
+   "vighill_letters_correct": 0.05205000000000002,
+   "vighill_exact": 0.0,
+   "vighill_IC": 0.03918103879849812
+  },
+  {
+   "n": 1600,
+   "shift_key": 1.0,
+   "vig_period_found": 0.87,
+   "vig_key_known_period": 1.0,
+   "vighill_letters_correct": 0.051490625000000005,
+   "vighill_exact": 0.0,
+   "vighill_IC": 0.03902667292057532
+  }
+ ],
+ "IC_english": 0.06847119784676159,
+ "timing": [
+  {
+   "n": 1000,
+   "vighill_enc": 0.0007766999769955873,
+   "vighill_dec": 0.0005138999549672008,
+   "shift_enc": 0.000328300055116415,
+   "shift_dec": 0.00026219990104436874,
+   "vig_enc": 0.0003233000170439482
+  },
+  {
+   "n": 10000,
+   "vighill_enc": 0.006142799975350499,
+   "vighill_dec": 0.004664800013415515,
+   "shift_enc": 0.005162599962204695,
+   "shift_dec": 0.0028412999818101525,
+   "vig_enc": 0.0023319999454542994
+  },
+  {
+   "n": 100000,
+   "vighill_enc": 0.046493500005453825,
+   "vighill_dec": 0.04881639999803156,
+   "shift_enc": 0.022011400084011257,
+   "shift_dec": 0.020845699938945472,
+   "vig_enc": 0.020061800023540854
+  },
+  {
+   "n": 1000000,
+   "vighill_enc": 0.5310748000629246,
+   "vighill_dec": 0.5592281999997795,
+   "shift_enc": 0.23394980002194643,
+   "shift_dec": 0.2277415000135079,
+   "vig_enc": 0.18742550001479685
+  }
+ ],
+ "kpa_total_seconds_for_1000_runs": 0.14501079998444766
+}
